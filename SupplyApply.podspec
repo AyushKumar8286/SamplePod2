@@ -35,7 +35,7 @@ s.dependency 'DropDown'
 s.dependency 'Stripe'
 
 # 8
-#s.source_files = "SupplyApply/**/*.{swift}", "SupplyApply/**/**/*.{swift}", "SupplyApply/**/**/**/*.{swift}"
+s.source_files = "SupplyApply/**/*"
 
 # 9
 #s.resources = "SupplyApply/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,pdf}"
